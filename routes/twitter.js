@@ -1,5 +1,5 @@
 
-import express from 'Express';
+import express from 'express';
 
 import { getTweets } from '../controllers/twitter.js';
 
