@@ -1,3 +1,3 @@
 # Stock Tracker Server
 
-Server for Productivity Organizer. 
+Server for Stock Tracker. 
