@@ -22,7 +22,7 @@ export const getTweets = async (req, res) => {
         let response = await app.get(`/search/tweets`, {
             q: symbol,
             lang: "en",       
-            count: 5,       
+            count: 15,       
         });
         let tweets = [];
         for (let tweet of response.statuses) {
