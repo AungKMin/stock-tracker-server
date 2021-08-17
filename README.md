@@ -2,6 +2,8 @@
 
 Server for Stock Tracker. 
 
+Link to Demo: https://devpost.com/software/stock-tracker-9lo7c0
+
 Link to client repository: https://github.com/AungKMin/stock-tracker-client
 
 Link to server repository: https://github.com/AungKMin/stock-tracker-server
